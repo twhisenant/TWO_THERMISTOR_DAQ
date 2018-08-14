@@ -1,5 +1,6 @@
 # TWO_THERMISTOR_DAQ
 Project files for 3 Different Types of Arduino DAQ (in MATLAB and Arduino)
+   
     This code will take temperature data from two thermistors and display it every second.
 
 Here is the website for this project: https://sites.google.com/site/tristanwhisenantcodedsomething/home/arduino-serial-communication/2-thermistor-daq-system?authuser=0
