@@ -1,1 +1,7 @@
-Hello and welcome to the Arduino Class Drive Folder. Here we have all the code used to program the Arduinos on September 21st, 2018. 
+Hello and welcome to the Arduino Class Drive Folder. 
+
+Here we have all the code used to program the Arduinos on September 21st, 2018. 
+
+N.B. All the MATLAB/Python/Processing code in this folder is compatible with the .ino file found in the folder. The only hiccups are:
+- Installing the correct programs and packages on your device (MATLAB, Python with Matplotlib, Processing)
+- Changing the port name from my dev/usbmodem-1411 to the name of your USB port
